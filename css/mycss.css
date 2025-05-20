@@ -2874,6 +2874,25 @@ body.dark .waxon_tm_commentbox_wrap .wp .text a {
 	text-decoration: underline;
 }
 
+.profile-info {
+	list-style: none;
+	padding: 0;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.profile-info li {
+	margin-bottom: 12px;
+	font-size: 16px;
+	list-style: none;
+}
+
+.profile-info strong {
+	display: inline-block;
+	width: 130px;
+	color: #333;
+}
+
 /*---------------------------------------------------*/
 /*	14) WAXON MEDIA QUERIES (FOR SMALL DEVICES)
 /*---------------------------------------------------*/
